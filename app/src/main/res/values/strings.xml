@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorial12_Drop Down List</string>
+
+
+    <string-array name="countries">
+        <item>Please select a value</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Class</item>
+        <item>City</item>
+
+
+    </string-array>
+</resources>
